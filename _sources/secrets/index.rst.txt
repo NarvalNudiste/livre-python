@@ -1,0 +1,5 @@
+.. _secrets-tutorial:
+
+===========
+``secrets``
+===========

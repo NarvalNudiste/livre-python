@@ -1,0 +1,5 @@
+.. _statistics-tutorial:
+
+==============
+``statistics``
+==============
