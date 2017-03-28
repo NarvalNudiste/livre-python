@@ -128,5 +128,47 @@ Nous nous retrouvons donc avec une chatoyante doc :
 
 Néanmoins, cette méthode comporte un soucis évident : on doit quand même inclure tous les modules et classes manuellement, et ça c'est tout pourri.
 Heureusement, un utilisateur a créé un script remédiant à ce soucis : il s'agit d'apidoc. 
+<<<<<<< 1cf50810244a60b16b1fc7b929f700ac34ba19c3
     
 >>>>>>> added autodoc section + beginned apidoc, hello travis
+=======
+
+APIDoc
+------
+
+APIDoc est un outil venant avec sphinx. Sa fonction est d'extraire la documentation d'un projet entier, générant ainsi les fichiers \*.rst pour chaque module.
+apidoc peut-être invoqué ainsi::
+
+    sphinx-apidoc [options] -o <destination> <source> [chemins ...]
+
+Des informations suplémentaires sur son utilisation peuvent être trouvées `à cette adresse <http://sphinx.pocoo.org/man/sphinx-apidoc.html>`_. 
+
+Syntaxe spécifique à Sphinx
+---------------------------
+
+*todo*
+
+Domaines
+--------
+
+*todo*
+
+Le fichier de configuration
+---------------------------
+
+*todo*
+
+Les thèmes
+----------
+
+*todo*
+
+Configuration pour LaTeX
+------------------------
+
+*todo*
+
+Conclusion
+----------
+
+*todo*
