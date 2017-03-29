@@ -6,8 +6,6 @@ Guillaume Noguera [#gn]_
 Introduction
 ------------
 
-
-
 :py:mod:`sphinx` `(site officiel) <http://www.sphinx-doc.org/>`_ est un générateur de documentation python libre (Licence `BSD <https://en.wikipedia.org/wiki/BSD_licenses>`_).
 Sphinx se charge de convertir un ensemble de sources `reSt <http://docutils.sourceforge.net/rst.html>`_ vers différents formats (LaTeX, PDF, Epub), en produisant les indices et références internes automatiquement.
 Il est également capable de générer une version html de la documentation pour une consultation directe et facile.
@@ -167,10 +165,6 @@ Nous nous retrouvons donc avec une chatoyante doc :
 
 Néanmoins, cette méthode comporte un soucis évident : on doit quand même inclure tous les modules et classes manuellement, et ça c'est tout pourri.
 Heureusement, un utilisateur a créé un script remédiant à ce soucis : il s'agit d'apidoc. 
-<<<<<<< 1cf50810244a60b16b1fc7b929f700ac34ba19c3
-    
->>>>>>> added autodoc section + beginned apidoc, hello travis
-=======
 
 APIDoc
 ~~~~~~
